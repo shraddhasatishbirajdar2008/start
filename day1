@@ -1,0 +1,8 @@
+install git & github
+vs code
+push code in github
+1.git clone
+2.cd (file name then enter tab)
+3.git add .
+4.git commit -m "massage"
+5.git push
